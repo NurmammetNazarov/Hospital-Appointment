@@ -1,0 +1,157 @@
+C:\Users\alper\OneDrive\Desktop\görsel programlama proje\Hastane Randevu\bin\Debug\net8.0-windows\Hastane Randevu.exe
+C:\Users\alper\OneDrive\Desktop\görsel programlama proje\Hastane Randevu\bin\Debug\net8.0-windows\Hastane Randevu.deps.json
+C:\Users\alper\OneDrive\Desktop\görsel programlama proje\Hastane Randevu\bin\Debug\net8.0-windows\Hastane Randevu.runtimeconfig.json
+C:\Users\alper\OneDrive\Desktop\görsel programlama proje\Hastane Randevu\bin\Debug\net8.0-windows\Hastane Randevu.dll
+C:\Users\alper\OneDrive\Desktop\görsel programlama proje\Hastane Randevu\bin\Debug\net8.0-windows\Hastane Randevu.pdb
+C:\Users\alper\OneDrive\Desktop\görsel programlama proje\Hastane Randevu\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\alper\OneDrive\Desktop\görsel programlama proje\Hastane Randevu\bin\Debug\net8.0-windows\System.Data.OleDb.dll
+C:\Users\alper\OneDrive\Desktop\görsel programlama proje\Hastane Randevu\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\alper\OneDrive\Desktop\görsel programlama proje\Hastane Randevu\bin\Debug\net8.0-windows\System.Diagnostics.PerformanceCounter.dll
+C:\Users\alper\OneDrive\Desktop\görsel programlama proje\Hastane Randevu\bin\Debug\net8.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\alper\OneDrive\Desktop\görsel programlama proje\Hastane Randevu\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.OleDb.dll
+C:\Users\alper\OneDrive\Desktop\görsel programlama proje\Hastane Randevu\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\alper\OneDrive\Desktop\görsel programlama proje\Hastane Randevu\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\alper\OneDrive\Desktop\görsel programlama proje\Hastane Randevu\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\alper\OneDrive\Desktop\görsel programlama proje\Hastane Randevu\obj\Debug\net8.0-windows\Hastane Randevu.csproj.AssemblyReference.cache
+C:\Users\alper\OneDrive\Desktop\görsel programlama proje\Hastane Randevu\obj\Debug\net8.0-windows\Hastane_Randevu.Form1.resources
+C:\Users\alper\OneDrive\Desktop\görsel programlama proje\Hastane Randevu\obj\Debug\net8.0-windows\Hastane Randevu.csproj.GenerateResource.cache
+C:\Users\alper\OneDrive\Desktop\görsel programlama proje\Hastane Randevu\obj\Debug\net8.0-windows\Hastane Randevu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alper\OneDrive\Desktop\görsel programlama proje\Hastane Randevu\obj\Debug\net8.0-windows\Hastane Randevu.AssemblyInfoInputs.cache
+C:\Users\alper\OneDrive\Desktop\görsel programlama proje\Hastane Randevu\obj\Debug\net8.0-windows\Hastane Randevu.AssemblyInfo.cs
+C:\Users\alper\OneDrive\Desktop\görsel programlama proje\Hastane Randevu\obj\Debug\net8.0-windows\Hastane Randevu.csproj.CoreCompileInputs.cache
+C:\Users\alper\OneDrive\Desktop\görsel programlama proje\Hastane Randevu\obj\Debug\net8.0-windows\Hastane .3E4530DD.Up2Date
+C:\Users\alper\OneDrive\Desktop\görsel programlama proje\Hastane Randevu\obj\Debug\net8.0-windows\Hastane Randevu.dll
+C:\Users\alper\OneDrive\Desktop\görsel programlama proje\Hastane Randevu\obj\Debug\net8.0-windows\refint\Hastane Randevu.dll
+C:\Users\alper\OneDrive\Desktop\görsel programlama proje\Hastane Randevu\obj\Debug\net8.0-windows\Hastane Randevu.pdb
+C:\Users\alper\OneDrive\Desktop\görsel programlama proje\Hastane Randevu\obj\Debug\net8.0-windows\Hastane Randevu.genruntimeconfig.cache
+C:\Users\alper\OneDrive\Desktop\görsel programlama proje\Hastane Randevu\obj\Debug\net8.0-windows\ref\Hastane Randevu.dll
+C:\Users\alper\OneDrive\Desktop\görsel programlama proje\Hastane Randevu\obj\Debug\net8.0-windows\Hastane_Randevu.Properties.Resources.resources
+C:\Users\alper\OneDrive\Desktop\görsel programlama proje\Hastane Randevu\obj\Debug\net8.0-windows\Hastane_Randevu.Doktor.resources
+C:\Users\PC\Desktop\Hastane Randevu\Hastane Randevu\obj\Debug\net8.0-windows\Hastane Randevu.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Hastane Randevu\Hastane Randevu\obj\Debug\net8.0-windows\Hastane_Randevu.Doktor.resources
+C:\Users\PC\Desktop\Hastane Randevu\Hastane Randevu\obj\Debug\net8.0-windows\Hastane_Randevu.Form1.resources
+C:\Users\PC\Desktop\Hastane Randevu\Hastane Randevu\obj\Debug\net8.0-windows\Hastane_Randevu.Properties.Resources.resources
+C:\Users\PC\Desktop\Hastane Randevu\Hastane Randevu\obj\Debug\net8.0-windows\Hastane Randevu.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\Hastane Randevu\Hastane Randevu\obj\Debug\net8.0-windows\Hastane Randevu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Hastane Randevu\Hastane Randevu\obj\Debug\net8.0-windows\Hastane Randevu.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Hastane Randevu\Hastane Randevu\obj\Debug\net8.0-windows\Hastane Randevu.AssemblyInfo.cs
+C:\Users\PC\Desktop\Hastane Randevu\Hastane Randevu\obj\Debug\net8.0-windows\Hastane Randevu.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Hastane Randevu\Hastane Randevu\obj\Debug\net8.0-windows\Hastane Randevu.sourcelink.json
+C:\Users\PC\Desktop\Hastane Randevu\Hastane Randevu\obj\Debug\net8.0-windows\Hastane Randevu.dll
+C:\Users\PC\Desktop\Hastane Randevu\Hastane Randevu\obj\Debug\net8.0-windows\refint\Hastane Randevu.dll
+C:\Users\PC\Desktop\Hastane Randevu\Hastane Randevu\obj\Debug\net8.0-windows\Hastane Randevu.pdb
+C:\Users\PC\Desktop\Hastane Randevu\Hastane Randevu\bin\Debug\net8.0-windows\Hastane Randevu.exe
+C:\Users\PC\Desktop\Hastane Randevu\Hastane Randevu\bin\Debug\net8.0-windows\Hastane Randevu.deps.json
+C:\Users\PC\Desktop\Hastane Randevu\Hastane Randevu\bin\Debug\net8.0-windows\Hastane Randevu.runtimeconfig.json
+C:\Users\PC\Desktop\Hastane Randevu\Hastane Randevu\bin\Debug\net8.0-windows\Hastane Randevu.dll
+C:\Users\PC\Desktop\Hastane Randevu\Hastane Randevu\bin\Debug\net8.0-windows\Hastane Randevu.pdb
+C:\Users\PC\Desktop\Hastane Randevu\Hastane Randevu\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\PC\Desktop\Hastane Randevu\Hastane Randevu\bin\Debug\net8.0-windows\System.Data.OleDb.dll
+C:\Users\PC\Desktop\Hastane Randevu\Hastane Randevu\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\PC\Desktop\Hastane Randevu\Hastane Randevu\bin\Debug\net8.0-windows\System.Diagnostics.PerformanceCounter.dll
+C:\Users\PC\Desktop\Hastane Randevu\Hastane Randevu\bin\Debug\net8.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\PC\Desktop\Hastane Randevu\Hastane Randevu\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.OleDb.dll
+C:\Users\PC\Desktop\Hastane Randevu\Hastane Randevu\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\PC\Desktop\Hastane Randevu\Hastane Randevu\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\PC\Desktop\Hastane Randevu\Hastane Randevu\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\PC\Desktop\Hastane Randevu\Hastane Randevu\obj\Debug\net8.0-windows\Hastane .3E4530DD.Up2Date
+C:\Users\PC\Desktop\Hastane Randevu\Hastane Randevu\obj\Debug\net8.0-windows\Hastane Randevu.genruntimeconfig.cache
+C:\Users\PC\Desktop\Hastane Randevu\Hastane Randevu\obj\Debug\net8.0-windows\ref\Hastane Randevu.dll
+C:\Users\PC\Desktop\Hastane Randevu\Hastane Randevu\obj\Debug\net8.0-windows\Hastane_Randevu.Hasta.resources
+C:\Users\alper\Downloads\Hastane Randevu\Hastane Randevu\bin\Debug\net8.0-windows\Hastane Randevu.exe
+C:\Users\alper\Downloads\Hastane Randevu\Hastane Randevu\bin\Debug\net8.0-windows\Hastane Randevu.deps.json
+C:\Users\alper\Downloads\Hastane Randevu\Hastane Randevu\bin\Debug\net8.0-windows\Hastane Randevu.runtimeconfig.json
+C:\Users\alper\Downloads\Hastane Randevu\Hastane Randevu\bin\Debug\net8.0-windows\Hastane Randevu.dll
+C:\Users\alper\Downloads\Hastane Randevu\Hastane Randevu\bin\Debug\net8.0-windows\Hastane Randevu.pdb
+C:\Users\alper\Downloads\Hastane Randevu\Hastane Randevu\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\alper\Downloads\Hastane Randevu\Hastane Randevu\bin\Debug\net8.0-windows\System.Data.OleDb.dll
+C:\Users\alper\Downloads\Hastane Randevu\Hastane Randevu\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\alper\Downloads\Hastane Randevu\Hastane Randevu\bin\Debug\net8.0-windows\System.Diagnostics.PerformanceCounter.dll
+C:\Users\alper\Downloads\Hastane Randevu\Hastane Randevu\bin\Debug\net8.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\alper\Downloads\Hastane Randevu\Hastane Randevu\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.OleDb.dll
+C:\Users\alper\Downloads\Hastane Randevu\Hastane Randevu\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\alper\Downloads\Hastane Randevu\Hastane Randevu\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\alper\Downloads\Hastane Randevu\Hastane Randevu\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\alper\Downloads\Hastane Randevu\Hastane Randevu\obj\Debug\net8.0-windows\Hastane Randevu.csproj.AssemblyReference.cache
+C:\Users\alper\Downloads\Hastane Randevu\Hastane Randevu\obj\Debug\net8.0-windows\Hastane_Randevu.Doktor.resources
+C:\Users\alper\Downloads\Hastane Randevu\Hastane Randevu\obj\Debug\net8.0-windows\Hastane_Randevu.Form1.resources
+C:\Users\alper\Downloads\Hastane Randevu\Hastane Randevu\obj\Debug\net8.0-windows\Hastane_Randevu.Hasta.resources
+C:\Users\alper\Downloads\Hastane Randevu\Hastane Randevu\obj\Debug\net8.0-windows\Hastane_Randevu.Properties.Resources.resources
+C:\Users\alper\Downloads\Hastane Randevu\Hastane Randevu\obj\Debug\net8.0-windows\Hastane Randevu.csproj.GenerateResource.cache
+C:\Users\alper\Downloads\Hastane Randevu\Hastane Randevu\obj\Debug\net8.0-windows\Hastane Randevu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alper\Downloads\Hastane Randevu\Hastane Randevu\obj\Debug\net8.0-windows\Hastane Randevu.AssemblyInfoInputs.cache
+C:\Users\alper\Downloads\Hastane Randevu\Hastane Randevu\obj\Debug\net8.0-windows\Hastane Randevu.AssemblyInfo.cs
+C:\Users\alper\Downloads\Hastane Randevu\Hastane Randevu\obj\Debug\net8.0-windows\Hastane Randevu.csproj.CoreCompileInputs.cache
+C:\Users\alper\Downloads\Hastane Randevu\Hastane Randevu\obj\Debug\net8.0-windows\Hastane Randevu.sourcelink.json
+C:\Users\alper\Downloads\Hastane Randevu\Hastane Randevu\obj\Debug\net8.0-windows\Hastane .3E4530DD.Up2Date
+C:\Users\alper\Downloads\Hastane Randevu\Hastane Randevu\obj\Debug\net8.0-windows\Hastane Randevu.dll
+C:\Users\alper\Downloads\Hastane Randevu\Hastane Randevu\obj\Debug\net8.0-windows\refint\Hastane Randevu.dll
+C:\Users\alper\Downloads\Hastane Randevu\Hastane Randevu\obj\Debug\net8.0-windows\Hastane Randevu.pdb
+C:\Users\alper\Downloads\Hastane Randevu\Hastane Randevu\obj\Debug\net8.0-windows\Hastane Randevu.genruntimeconfig.cache
+C:\Users\alper\Downloads\Hastane Randevu\Hastane Randevu\obj\Debug\net8.0-windows\ref\Hastane Randevu.dll
+C:\Users\alper\OneDrive\Desktop\Hastane Randevu\Hastane Randevu\bin\Debug\net8.0-windows\Hastane Randevu.exe
+C:\Users\alper\OneDrive\Desktop\Hastane Randevu\Hastane Randevu\bin\Debug\net8.0-windows\Hastane Randevu.deps.json
+C:\Users\alper\OneDrive\Desktop\Hastane Randevu\Hastane Randevu\bin\Debug\net8.0-windows\Hastane Randevu.runtimeconfig.json
+C:\Users\alper\OneDrive\Desktop\Hastane Randevu\Hastane Randevu\bin\Debug\net8.0-windows\Hastane Randevu.dll
+C:\Users\alper\OneDrive\Desktop\Hastane Randevu\Hastane Randevu\bin\Debug\net8.0-windows\Hastane Randevu.pdb
+C:\Users\alper\OneDrive\Desktop\Hastane Randevu\Hastane Randevu\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\alper\OneDrive\Desktop\Hastane Randevu\Hastane Randevu\bin\Debug\net8.0-windows\System.Data.OleDb.dll
+C:\Users\alper\OneDrive\Desktop\Hastane Randevu\Hastane Randevu\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\alper\OneDrive\Desktop\Hastane Randevu\Hastane Randevu\bin\Debug\net8.0-windows\System.Diagnostics.PerformanceCounter.dll
+C:\Users\alper\OneDrive\Desktop\Hastane Randevu\Hastane Randevu\bin\Debug\net8.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\alper\OneDrive\Desktop\Hastane Randevu\Hastane Randevu\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.OleDb.dll
+C:\Users\alper\OneDrive\Desktop\Hastane Randevu\Hastane Randevu\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\alper\OneDrive\Desktop\Hastane Randevu\Hastane Randevu\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\alper\OneDrive\Desktop\Hastane Randevu\Hastane Randevu\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\alper\OneDrive\Desktop\Hastane Randevu\Hastane Randevu\obj\Debug\net8.0-windows\Hastane Randevu.csproj.AssemblyReference.cache
+C:\Users\alper\OneDrive\Desktop\Hastane Randevu\Hastane Randevu\obj\Debug\net8.0-windows\Hastane_Randevu.Doktor.resources
+C:\Users\alper\OneDrive\Desktop\Hastane Randevu\Hastane Randevu\obj\Debug\net8.0-windows\Hastane_Randevu.Form1.resources
+C:\Users\alper\OneDrive\Desktop\Hastane Randevu\Hastane Randevu\obj\Debug\net8.0-windows\Hastane_Randevu.Hasta.resources
+C:\Users\alper\OneDrive\Desktop\Hastane Randevu\Hastane Randevu\obj\Debug\net8.0-windows\Hastane_Randevu.Properties.Resources.resources
+C:\Users\alper\OneDrive\Desktop\Hastane Randevu\Hastane Randevu\obj\Debug\net8.0-windows\Hastane Randevu.csproj.GenerateResource.cache
+C:\Users\alper\OneDrive\Desktop\Hastane Randevu\Hastane Randevu\obj\Debug\net8.0-windows\Hastane Randevu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alper\OneDrive\Desktop\Hastane Randevu\Hastane Randevu\obj\Debug\net8.0-windows\Hastane Randevu.AssemblyInfoInputs.cache
+C:\Users\alper\OneDrive\Desktop\Hastane Randevu\Hastane Randevu\obj\Debug\net8.0-windows\Hastane Randevu.AssemblyInfo.cs
+C:\Users\alper\OneDrive\Desktop\Hastane Randevu\Hastane Randevu\obj\Debug\net8.0-windows\Hastane Randevu.csproj.CoreCompileInputs.cache
+C:\Users\alper\OneDrive\Desktop\Hastane Randevu\Hastane Randevu\obj\Debug\net8.0-windows\Hastane Randevu.sourcelink.json
+C:\Users\alper\OneDrive\Desktop\Hastane Randevu\Hastane Randevu\obj\Debug\net8.0-windows\Hastane .3E4530DD.Up2Date
+C:\Users\alper\OneDrive\Desktop\Hastane Randevu\Hastane Randevu\obj\Debug\net8.0-windows\Hastane Randevu.dll
+C:\Users\alper\OneDrive\Desktop\Hastane Randevu\Hastane Randevu\obj\Debug\net8.0-windows\refint\Hastane Randevu.dll
+C:\Users\alper\OneDrive\Desktop\Hastane Randevu\Hastane Randevu\obj\Debug\net8.0-windows\Hastane Randevu.pdb
+C:\Users\alper\OneDrive\Desktop\Hastane Randevu\Hastane Randevu\obj\Debug\net8.0-windows\Hastane Randevu.genruntimeconfig.cache
+C:\Users\alper\OneDrive\Desktop\Hastane Randevu\Hastane Randevu\obj\Debug\net8.0-windows\ref\Hastane Randevu.dll
+C:\Users\PC\Desktop\Hastane Randevu\Hastane Randevu\obj\Debug\net8.0-windows\Hastane_Randevu.RandevuAl.resources
+C:\Users\alper\OneDrive\Desktop\Hastane Randevu\Hastane Randevu\obj\Debug\net8.0-windows\Hastane_Randevu.RandevuAl.resources
+C:\Users\PC\Downloads\Hastane Randevu\Hastane Randevu\obj\Debug\net8.0-windows\Hastane Randevu.csproj.AssemblyReference.cache
+C:\Users\PC\Downloads\Hastane Randevu\Hastane Randevu\obj\Debug\net8.0-windows\Hastane_Randevu.Doktor.resources
+C:\Users\PC\Downloads\Hastane Randevu\Hastane Randevu\obj\Debug\net8.0-windows\Hastane_Randevu.Form1.resources
+C:\Users\PC\Downloads\Hastane Randevu\Hastane Randevu\obj\Debug\net8.0-windows\Hastane_Randevu.Hasta.resources
+C:\Users\PC\Downloads\Hastane Randevu\Hastane Randevu\obj\Debug\net8.0-windows\Hastane_Randevu.Properties.Resources.resources
+C:\Users\PC\Downloads\Hastane Randevu\Hastane Randevu\obj\Debug\net8.0-windows\Hastane_Randevu.RandevuAl.resources
+C:\Users\PC\Downloads\Hastane Randevu\Hastane Randevu\obj\Debug\net8.0-windows\Hastane Randevu.csproj.GenerateResource.cache
+C:\Users\PC\Downloads\Hastane Randevu\Hastane Randevu\obj\Debug\net8.0-windows\Hastane Randevu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Downloads\Hastane Randevu\Hastane Randevu\obj\Debug\net8.0-windows\Hastane Randevu.AssemblyInfoInputs.cache
+C:\Users\PC\Downloads\Hastane Randevu\Hastane Randevu\obj\Debug\net8.0-windows\Hastane Randevu.AssemblyInfo.cs
+C:\Users\PC\Downloads\Hastane Randevu\Hastane Randevu\obj\Debug\net8.0-windows\Hastane Randevu.csproj.CoreCompileInputs.cache
+C:\Users\PC\Downloads\Hastane Randevu\Hastane Randevu\obj\Debug\net8.0-windows\Hastane Randevu.sourcelink.json
+C:\Users\PC\Downloads\Hastane Randevu\Hastane Randevu\obj\Debug\net8.0-windows\Hastane Randevu.dll
+C:\Users\PC\Downloads\Hastane Randevu\Hastane Randevu\obj\Debug\net8.0-windows\refint\Hastane Randevu.dll
+C:\Users\PC\Downloads\Hastane Randevu\Hastane Randevu\obj\Debug\net8.0-windows\Hastane Randevu.pdb
+C:\Users\PC\Downloads\Hastane Randevu\Hastane Randevu\bin\Debug\net8.0-windows\Hastane Randevu.exe
+C:\Users\PC\Downloads\Hastane Randevu\Hastane Randevu\bin\Debug\net8.0-windows\Hastane Randevu.deps.json
+C:\Users\PC\Downloads\Hastane Randevu\Hastane Randevu\bin\Debug\net8.0-windows\Hastane Randevu.runtimeconfig.json
+C:\Users\PC\Downloads\Hastane Randevu\Hastane Randevu\bin\Debug\net8.0-windows\Hastane Randevu.dll
+C:\Users\PC\Downloads\Hastane Randevu\Hastane Randevu\bin\Debug\net8.0-windows\Hastane Randevu.pdb
+C:\Users\PC\Downloads\Hastane Randevu\Hastane Randevu\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\PC\Downloads\Hastane Randevu\Hastane Randevu\bin\Debug\net8.0-windows\System.Data.OleDb.dll
+C:\Users\PC\Downloads\Hastane Randevu\Hastane Randevu\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\PC\Downloads\Hastane Randevu\Hastane Randevu\bin\Debug\net8.0-windows\System.Diagnostics.PerformanceCounter.dll
+C:\Users\PC\Downloads\Hastane Randevu\Hastane Randevu\bin\Debug\net8.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\PC\Downloads\Hastane Randevu\Hastane Randevu\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.OleDb.dll
+C:\Users\PC\Downloads\Hastane Randevu\Hastane Randevu\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\PC\Downloads\Hastane Randevu\Hastane Randevu\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\PC\Downloads\Hastane Randevu\Hastane Randevu\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\PC\Downloads\Hastane Randevu\Hastane Randevu\obj\Debug\net8.0-windows\Hastane .3E4530DD.Up2Date
+C:\Users\PC\Downloads\Hastane Randevu\Hastane Randevu\obj\Debug\net8.0-windows\Hastane Randevu.genruntimeconfig.cache
+C:\Users\PC\Downloads\Hastane Randevu\Hastane Randevu\obj\Debug\net8.0-windows\ref\Hastane Randevu.dll
+C:\Users\PC\Desktop\Hastane Randevu\Hastane Randevu\obj\Debug\net8.0-windows\Hastane_Randevu.RandevuListeleVeSil.resources
